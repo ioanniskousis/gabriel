@@ -1,5 +1,5 @@
 # Microverse Pair Coding for front end project about Technical Documentation
-## updated
+## updated by Ioannis Kousis
 
 ## Languages: HTML and CSS
 
